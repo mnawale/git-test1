@@ -1,0 +1,2 @@
+/Users/anaconda3
+/opt/anaconda3
